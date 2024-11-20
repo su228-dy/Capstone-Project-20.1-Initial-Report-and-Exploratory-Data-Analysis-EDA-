@@ -1,5 +1,7 @@
 # Capstone-Project-20.1-Initial-Report-and-Exploratory-Data-Analysis-EDA-
+
 ## The Initial Report and Exploratory of My Dataset
+
 ### Dataset Information:
 The dataset is sourced from an AI-powered job market insights platform, providing anonymized data on job roles, salaries, industries, and adoption of AI across organizations.
 
@@ -21,7 +23,7 @@ Analyzing correlations between job growth projections and salaries.
 By leveraging machine learning and visualization tools, we aim to extract actionable insights for strategic planning.
 
 ### Source:
-AI-Powered Job Market Insights Dataset (from Kaggle)
+AI-Powered Job Market Insights Dataset (from Kaggle:https://www.kaggle.com/datasets/uom190346a/ai-powered-job-market-insights)
 
 ### Data Understanding
 <pre> Dataset Characteristics: Tabular data Domain: Job Market Analysis Features: Mixed (Categorical, Numerical) Missing Values? No </pre>
